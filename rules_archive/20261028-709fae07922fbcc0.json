@@ -1,0 +1,24 @@
+{
+  "captured_utc": "2026-10-28T01:41:09+00:00",
+  "fingerprint": "709fae07922fbcc0",
+  "rules": {
+    "firm": "FTMO US (OANDA)",
+    "product": "Swing 2-Step $100k",
+    "phase_targets": [
+      0.1,
+      0.05
+    ],
+    "max_daily_loss": 0.05,
+    "max_total_loss": 0.1,
+    "drawdown_type": "static",
+    "min_trading_days": 4,
+    "max_days": null,
+    "profit_split": 0.8,
+    "consistency_rule": null,
+    "weekend_holding": true,
+    "news_restriction": false,
+    "verified_on": "2026-10-27",
+    "source_url": "https://ftmo.oanda.com/"
+  },
+  "page_sha256": null
+}
